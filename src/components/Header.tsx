@@ -36,9 +36,7 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
                 onClick={() => onNavigate('home')}
                 className="flex items-center gap-2 group"
               >
-                <div className="w-10 h-10 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
-                  <span className="text-white font-bold text-lg">R</span>
-                </div>
+                <img src="/Logo.png" alt="RIDEwithHER Logo" className="h-24 w-16 object-contain" />
                 <span className="text-xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
                   RIDEwithHER
                 </span>

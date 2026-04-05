@@ -44,7 +44,7 @@ export default function HomePage() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://forms.google.com"
+                href="https://chat.whatsapp.com/KsGZqb3hcQlLJh0HViTa8J"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 to-pink-600 text-white px-8 py-4 rounded-full font-semibold text-lg shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-all"
@@ -445,7 +445,7 @@ export default function HomePage() {
           </p>
 
           <a
-            href="https://forms.google.com"
+            href="https://chat.whatsapp.com/KsGZqb3hcQlLJh0HViTa8J"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-white text-purple-600 px-8 py-4 rounded-full font-semibold text-lg shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-all"
